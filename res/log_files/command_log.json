@@ -1,0 +1,689 @@
+{
+    "logs": [
+        {
+            "time": "2021-04-22 23:38:58.022812",
+            "sender": "[10:18 PM, 4/22/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-22 23:39:08.461917",
+            "sender": "[11:39 PM, 4/22/2021] Self: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-22 23:39:29.170597",
+            "sender": "[11:39 PM, 4/22/2021] Self: ",
+            "command": "#sidebot danger @SideBOT"
+        },
+        {
+            "time": "2021-04-22 23:41:21.007305",
+            "sender": "[11:41 PM, 4/22/2021] Self: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-22 23:41:48.905744",
+            "sender": "[11:41 PM, 4/22/2021] Self: ",
+            "command": "#sidebot congrats @SideBOT"
+        },
+        {
+            "time": "2021-04-22 23:42:06.753022",
+            "sender": "[11:42 PM, 4/22/2021] Self: ",
+            "command": "#sidebot pls tag everyone"
+        },
+        {
+            "time": "2021-04-22 23:45:34.493698",
+            "sender": "[11:45 PM, 4/22/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-22 23:47:38.940243",
+            "sender": "[11:47 PM, 4/22/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-22 23:48:45.989884",
+            "sender": "[11:48 PM, 4/22/2021] Self: ",
+            "command": "#sidebot wanted @Harsh Rawat"
+        },
+        {
+            "time": "2021-04-22 23:49:51.784057",
+            "sender": "[11:49 PM, 4/22/2021] Self: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-22 23:51:16.784887",
+            "sender": "[11:51 PM, 4/22/2021] Self: ",
+            "command": "#sidebot pls slap @SideBOT"
+        },
+        {
+            "time": "2021-04-22 23:51:35.443842",
+            "sender": "[11:51 PM, 4/22/2021] Self: ",
+            "command": "#sidebot pls slap @Artej7"
+        },
+        {
+            "time": "2021-04-22 23:52:17.568262",
+            "sender": "[11:51 PM, 4/22/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-04-22 23:55:45.007293",
+            "sender": "[11:55 PM, 4/22/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-22 23:55:59.611757",
+            "sender": "[11:55 PM, 4/22/2021] Self: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-22 23:59:33.201954",
+            "sender": "[11:59 PM, 4/22/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-22 23:59:48.775180",
+            "sender": "[11:59 PM, 4/22/2021] Self: ",
+            "command": "#sidebot congrats @SideBOT"
+        },
+        {
+            "time": "2021-04-23 00:00:17.229531",
+            "sender": "[12:00 AM, 4/23/2021] Self: ",
+            "command": "#sidebot danger @SideBOT"
+        },
+        {
+            "time": "2021-04-23 00:00:50.203227",
+            "sender": "[12:00 AM, 4/23/2021] Self: ",
+            "command": "#sidebot wanted @SideBOT"
+        },
+        {
+            "time": "2021-04-23 00:04:01.118057",
+            "sender": "[12:03 AM, 4/23/2021] Self: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 00:06:41.690236",
+            "sender": "[12:06 AM, 4/23/2021] Self: ",
+            "command": "#sidebot congrats @Amit Prakhar Pandey"
+        },
+        {
+            "time": "2021-04-23 00:06:59.221748",
+            "sender": "[12:06 AM, 4/23/2021] Self: ",
+            "command": "#sidebot congrats @Anmol Singh"
+        },
+        {
+            "time": "2021-04-23 00:31:18.377840",
+            "sender": "[12:31 AM, 4/23/2021] Self: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 00:32:07.467265",
+            "sender": "[12:32 AM, 4/23/2021] Aru: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 00:32:40.130129",
+            "sender": "[12:32 AM, 4/23/2021] Aru: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-04-23 00:33:51.751596",
+            "sender": "[12:33 AM, 4/23/2021] Aru: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 00:34:14.640581",
+            "sender": "[12:34 AM, 4/23/2021] Aru: ",
+            "command": "#sidebot pls slap @Self"
+        },
+        {
+            "time": "2021-04-23 00:35:16.766397",
+            "sender": "[12:35 AM, 4/23/2021] Aru: ",
+            "command": "#sidebot pls slap @SideBOT"
+        },
+        {
+            "time": "2021-04-23 00:35:40.764285",
+            "sender": "[12:35 AM, 4/23/2021] Aru: ",
+            "command": "#sidebot congrats @Self"
+        },
+        {
+            "time": "2021-04-23 12:29:46.008635",
+            "sender": "[12:29 PM, 4/23/2021] Siddhant Dixit: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-04-23 12:29:53.338230",
+            "sender": "[12:29 PM, 4/23/2021] Siddhant Dixit: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-23 12:30:24.642091",
+            "sender": "[12:30 PM, 4/23/2021] Siddhant Dixit: ",
+            "command": "#sidebot pls slap @Sarthak Dixit"
+        },
+        {
+            "time": "2021-04-23 12:30:57.890835",
+            "sender": "[12:30 PM, 4/23/2021] Siddhant Dixit: ",
+            "command": "#sidebot wanted @Sarthak Dixit"
+        },
+        {
+            "time": "2021-04-23 12:31:30.872744",
+            "sender": "[12:30 PM, 4/23/2021] Siddhant Dixit: ",
+            "command": "#sidebot wanted @Sarthak Dixit"
+        },
+        {
+            "time": "2021-04-23 12:34:36.693162",
+            "sender": "[12:34 PM, 4/23/2021] Siddhant Dixit: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 12:45:03.899648",
+            "sender": "[12:44 PM, 4/23/2021] Siddhant Dixit: ",
+            "command": "#sidebot pls slap @Sarthak Dixit"
+        },
+        {
+            "time": "2021-04-23 12:45:26.652854",
+            "sender": "[12:45 PM, 4/23/2021] Siddhant Dixit: ",
+            "command": "#sidebot wanted @\ud835\udd7e\ud835\udd8e\ud835\udd89\ud835\udd89\ud835\udd8d\ud835\udd86\ud835\udd93\ud835\udd99 \ud835\udd6f\ud835\udd8e\ud835\udd9d\ud835\udd8e\ud835\udd99"
+        },
+        {
+            "time": "2021-04-23 13:33:11.172986",
+            "sender": "[1:33 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:34:03.811020",
+            "sender": "[1:33 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:38:02.602242",
+            "sender": "[1:33 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:40:59.667214",
+            "sender": "[1:33 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:41:23.940160",
+            "sender": "[1:41 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:41:49.203730",
+            "sender": "[1:41 PM, 4/23/2021] Self: ",
+            "command": "#sidebot come here"
+        },
+        {
+            "time": "2021-04-23 13:42:19.764016",
+            "sender": "[1:42 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:45:46.683084",
+            "sender": "[1:45 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:46:09.965275",
+            "sender": "[1:46 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:49:01.056535",
+            "sender": "[1:48 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:49:36.580400",
+            "sender": "[1:49 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-04-23 13:50:20.236075",
+            "sender": "[1:50 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @Harsh Rawat"
+        },
+        {
+            "time": "2021-04-23 13:51:30.591444",
+            "sender": "[1:51 PM, 4/23/2021] Anmol Singh: ",
+            "command": "#sidebot congrats @Shubh Bindal"
+        },
+        {
+            "time": "2021-04-23 13:51:38.227911",
+            "sender": "[1:51 PM, 4/23/2021] Self: ",
+            "command": "#sidebot congrats @Shubh Bindal"
+        },
+        {
+            "time": "2021-04-23 13:52:50.224002",
+            "sender": "[1:52 PM, 4/23/2021] Self: ",
+            "command": "#sidebot wanted @Vinayak Upadhyay"
+        },
+        {
+            "time": "2021-04-23 13:53:14.797318",
+            "sender": "[1:53 PM, 4/23/2021] Anmol Singh: ",
+            "command": "#sidebot pls help"
+        },
+        {
+            "time": "2021-04-23 13:53:16.880329",
+            "sender": "[1:53 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls help"
+        },
+        {
+            "time": "2021-04-23 13:53:58.745182",
+            "sender": "[1:53 PM, 4/23/2021] Self: ",
+            "command": "#sidebot danger @Artej7"
+        },
+        {
+            "time": "2021-04-23 13:54:29.313053",
+            "sender": "[1:54 PM, 4/23/2021] Self: ",
+            "command": "#sidebot danger @Harsh Rawat"
+        },
+        {
+            "time": "2021-04-23 13:57:06.992787",
+            "sender": "[1:46 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:57:17.831166",
+            "sender": "[1:57 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-23 13:57:22.078731",
+            "sender": "[1:57 PM, 4/23/2021] Self: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 13:57:33.753159",
+            "sender": "[1:57 PM, 4/23/2021] Harsh Rawat: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-23 13:58:15.662948",
+            "sender": "[1:58 PM, 4/23/2021] Harsh Rawat: ",
+            "command": "#sidebot pls slap @Self"
+        },
+        {
+            "time": "2021-04-23 13:59:17.300919",
+            "sender": "[1:59 PM, 4/23/2021] Abhishek Dubey: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 13:59:34.360148",
+            "sender": "[1:59 PM, 4/23/2021] Amit Prakhar Pandey: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 13:59:44.249581",
+            "sender": "[1:59 PM, 4/23/2021] Abhishek Dubey: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 13:59:46.447454",
+            "sender": "[1:59 PM, 4/23/2021] Abhishek Dubey: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 13:59:48.623226",
+            "sender": "[1:59 PM, 4/23/2021] Abhishek Dubey: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 13:59:50.906870",
+            "sender": "[1:59 PM, 4/23/2021] Abhishek Dubey: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 13:59:53.511800",
+            "sender": "[1:59 PM, 4/23/2021] Abhishek Dubey: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 13:59:55.734553",
+            "sender": "[1:59 PM, 4/23/2021] Abhishek Dubey: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-23 19:51:38.673256",
+            "sender": "[7:51 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @SideBOT"
+        },
+        {
+            "time": "2021-04-23 19:51:53.221748",
+            "sender": "[7:51 PM, 4/23/2021] Self: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-23 19:52:08.806669",
+            "sender": "[7:52 PM, 4/23/2021] Self: ",
+            "command": "#sidebot jail @Sarthak Dixit"
+        },
+        {
+            "time": "2021-04-23 19:52:55.638559",
+            "sender": "[7:52 PM, 4/23/2021] Self: ",
+            "command": "#sidebot wanted @Artej"
+        },
+        {
+            "time": "2021-04-23 19:53:35.502645",
+            "sender": "[7:53 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @Artej"
+        },
+        {
+            "time": "2021-04-23 20:29:01.394898",
+            "sender": "[8:28 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @Sarthak Dixit"
+        },
+        {
+            "time": "2021-04-23 20:29:08.771256",
+            "sender": "[8:29 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @SideBOT"
+        },
+        {
+            "time": "2021-04-23 20:29:40.316465",
+            "sender": "[8:29 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @artej"
+        },
+        {
+            "time": "2021-04-23 20:30:47.909684",
+            "sender": "[8:30 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @Sarthak Dixit"
+        },
+        {
+            "time": "2021-04-23 22:29:21.566562",
+            "sender": "[8:31 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @artej"
+        },
+        {
+            "time": "2021-04-23 22:29:40.887303",
+            "sender": "[10:29 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @artrj"
+        },
+        {
+            "time": "2021-04-23 22:32:32.497899",
+            "sender": "[10:29 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @artrj"
+        },
+        {
+            "time": "2021-04-23 22:33:28.257310",
+            "sender": "[10:33 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @SideBOT"
+        },
+        {
+            "time": "2021-04-23 22:33:54.658461",
+            "sender": "[10:33 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @artrj"
+        },
+        {
+            "time": "2021-04-23 22:35:07.377982",
+            "sender": "[10:34 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @artrj"
+        },
+        {
+            "time": "2021-04-23 22:40:23.547132",
+            "sender": "[10:40 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @artrj"
+        },
+        {
+            "time": "2021-04-23 22:40:49.243607",
+            "sender": "[10:40 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @SideBOT"
+        },
+        {
+            "time": "2021-04-23 22:44:57.891187",
+            "sender": "[10:44 PM, 4/23/2021] Self: ",
+            "command": "#sidebot pls slap @Sarthak Dixit"
+        },
+        {
+            "time": "2021-04-23 22:45:25.438042",
+            "sender": "[10:45 PM, 4/23/2021] Self: ",
+            "command": "#sidebot wanted @Sarthak Dixit"
+        },
+        {
+            "time": "2021-04-23 23:30:13.391086",
+            "sender": "[10:45 PM, 4/23/2021] Self: ",
+            "command": "#sidebot wanted @Sarthak Dixit"
+        },
+        {
+            "time": "2021-04-23 23:30:34.838003",
+            "sender": "[11:30 PM, 4/23/2021] Self: ",
+            "command": "#sidebot who is online 1"
+        },
+        {
+            "time": "2021-04-23 23:42:39.490695",
+            "sender": "[11:42 PM, 4/23/2021] Self: ",
+            "command": "#sidebot who is online 2"
+        },
+        {
+            "time": "2021-04-23 23:43:08.976642",
+            "sender": "[11:42 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline 10"
+        },
+        {
+            "time": "2021-04-23 23:43:25.883278",
+            "sender": "[11:43 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline 30"
+        },
+        {
+            "time": "2021-04-23 23:44:33.685084",
+            "sender": "[11:44 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline 10"
+        },
+        {
+            "time": "2021-04-23 23:45:55.205856",
+            "sender": "[11:45 PM, 4/23/2021] Self: ",
+            "command": "#sidebot who is online 10"
+        },
+        {
+            "time": "2021-04-23 23:46:24.663618",
+            "sender": "[11:46 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline 10"
+        },
+        {
+            "time": "2021-04-23 23:46:30.119491",
+            "sender": "[11:46 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline 30"
+        },
+        {
+            "time": "2021-04-23 23:47:00.402607",
+            "sender": "[11:46 PM, 4/23/2021] Self: ",
+            "command": "#sidebot who is online 20"
+        },
+        {
+            "time": "2021-04-23 23:47:21.394401",
+            "sender": "[11:47 PM, 4/23/2021] Self: ",
+            "command": "#sidebot who is online 1"
+        },
+        {
+            "time": "2021-04-23 23:50:10.750396",
+            "sender": "[11:49 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-04-23 23:51:01.850746",
+            "sender": "[11:50 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-04-23 23:51:31.226220",
+            "sender": "[11:51 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-04-23 23:59:28.621279",
+            "sender": "[11:59 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-04-23 23:59:37.528424",
+            "sender": "[11:59 PM, 4/23/2021] Self: ",
+            "command": "#sidebot whoisonline 30"
+        },
+        {
+            "time": "2021-04-24 00:01:37.409503",
+            "sender": "[12:01 AM, 4/24/2021] Self: ",
+            "command": "#sidebot whoisonline 20"
+        },
+        {
+            "time": "2021-04-24 00:07:45.143215",
+            "sender": "[12:01 AM, 4/24/2021] Self: ",
+            "command": "#sidebot whoisonline 20"
+        },
+        {
+            "time": "2021-04-24 00:08:03.192041",
+            "sender": "[12:07 AM, 4/24/2021] Self: ",
+            "command": "#sidebot pls come here"
+        },
+        {
+            "time": "2021-04-24 00:09:07.990413",
+            "sender": "[12:09 AM, 4/24/2021] Self: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-24 00:11:30.163097",
+            "sender": "[12:11 AM, 4/24/2021] Self: ",
+            "command": "#sidebot danger @Neeraj Yadav"
+        },
+        {
+            "time": "2021-04-24 00:12:05.062461",
+            "sender": "[12:11 AM, 4/24/2021] Neeraj Yadav: ",
+            "command": "#sidebot pls slap @Neeraj Yadav"
+        },
+        {
+            "time": "2021-04-24 00:12:16.387401",
+            "sender": "[12:11 AM, 4/24/2021] Self: ",
+            "command": "#sidebot pls slap @Neeraj Yadav"
+        },
+        {
+            "time": "2021-04-24 00:13:28.408620",
+            "sender": "[12:13 AM, 4/24/2021] Self: ",
+            "command": "#sidebot wanted @Abhishek Dubey"
+        },
+        {
+            "time": "2021-04-24 00:13:34.168474",
+            "sender": "[12:13 AM, 4/24/2021] Self: ",
+            "command": "#sidebot wanted @Abhishek Dubey"
+        },
+        {
+            "time": "2021-04-24 00:15:12.793125",
+            "sender": "[12:01 AM, 4/24/2021] Self: ",
+            "command": "#sidebot whoisonline 20"
+        },
+        {
+            "time": "2021-04-24 14:57:39.367255",
+            "sender": "[2:57 PM, 4/24/2021] Self: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-04-24 14:58:02.777912",
+            "sender": "[2:57 PM, 4/24/2021] Self: ",
+            "command": "#sidebot pls slap @SideBOT"
+        },
+        {
+            "time": "2021-04-26 02:00:03.634363",
+            "sender": "[1:59 AM, 4/26/2021] Self: ",
+            "command": "#sidebot pls slap @SideBOT"
+        },
+        {
+            "time": "2021-04-26 02:00:11.891439",
+            "sender": "[2:00 AM, 4/26/2021] Self: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-26 02:05:04.379909",
+            "sender": "[2:05 AM, 4/26/2021] Self: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-26 02:05:18.620663",
+            "sender": "[2:05 AM, 4/26/2021] Self: ",
+            "command": "#sidebot pls slap @SideBOT"
+        },
+        {
+            "time": "2021-04-26 02:06:21.036216",
+            "sender": "[2:06 AM, 4/26/2021] Self: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-26 02:06:55.715721",
+            "sender": "[2:06 AM, 4/26/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-04-26 02:07:05.276062",
+            "sender": "[2:07 AM, 4/26/2021] Self: ",
+            "command": "#sidebot whoisonline 30"
+        },
+        {
+            "time": "2021-04-26 02:08:01.109715",
+            "sender": "[2:07 AM, 4/26/2021] Self: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-04-26 02:08:17.974893",
+            "sender": "[2:08 AM, 4/26/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-04-26 02:08:59.429169",
+            "sender": "[2:08 AM, 4/26/2021] Self: ",
+            "command": "#sidebot status"
+        },
+        {
+            "time": "2021-04-26 02:09:15.030154",
+            "sender": "[2:09 AM, 4/26/2021] Self: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-05-05 11:27:58.591426",
+            "sender": "[11:27 AM, 5/5/2021] Self: ",
+            "command": "#sidebot pls slap @SideBOT"
+        },
+        {
+            "time": "2021-05-05 11:28:42.955788",
+            "sender": "[11:28 AM, 5/5/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-05-05 11:29:23.752409",
+            "sender": "[11:29 AM, 5/5/2021] Self: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-05-05 11:29:41.499021",
+            "sender": "[11:29 AM, 5/5/2021] Self: ",
+            "command": "#sidebot help"
+        },
+        {
+            "time": "2021-05-05 11:30:10.176931",
+            "sender": "[11:30 AM, 5/5/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-05-05 11:30:47.940945",
+            "sender": "[11:30 AM, 5/5/2021] Self: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-05-05 11:31:19.523694",
+            "sender": "[11:31 AM, 5/5/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-05-05 11:34:20.736886",
+            "sender": "[11:31 AM, 5/5/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        },
+        {
+            "time": "2021-05-05 11:34:30.288260",
+            "sender": "[11:34 AM, 5/5/2021] Self: ",
+            "command": "#sidebot tag everyone"
+        },
+        {
+            "time": "2021-05-05 11:34:58.817622",
+            "sender": "[11:34 AM, 5/5/2021] Self: ",
+            "command": "#sidebot whoisonline"
+        }
+    ]
+}

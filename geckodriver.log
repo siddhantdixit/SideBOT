@@ -1,0 +1,1508 @@
+1618944775084	geckodriver	INFO	Listening on 127.0.0.1:57252
+1618944778443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileCds1Wt"
+DevTools listening on ws://localhost:57273/devtools/browser/5eb265dd-9486-4761-8df8-792f9f13b81e
+1618944779901	Marionette	INFO	Listening on port 57257
+1618944779984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1618944929378	Marionette	INFO	Stopped listening on port 57257
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618944929404	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1618946494889	geckodriver	INFO	Listening on 127.0.0.1:57519
+1618946498408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileAZbjQd"
+DevTools listening on ws://localhost:57537/devtools/browser/58801c8f-a494-4c79-9908-d6693abc6f94
+1618946500067	Marionette	INFO	Listening on port 57524
+1618946500437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1618946575893	geckodriver	INFO	Listening on 127.0.0.1:57626
+1618946579365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile63pUpv"
+DevTools listening on ws://localhost:57646/devtools/browser/ab951d56-1b84-45ed-8ee2-b773698bff2e
+1618946580970	Marionette	INFO	Listening on port 57631
+1618946581411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1618946721586	Marionette	INFO	Stopped listening on port 57631
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618946721616	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1618946792232	geckodriver	INFO	Listening on 127.0.0.1:57677
+1618946795738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile0KuWgJ"
+DevTools listening on ws://localhost:57697/devtools/browser/983254f9-5570-45c1-a307-4b26abc33981
+1618946797203	Marionette	INFO	Listening on port 57682
+1618946797278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 584, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1618947041571	Marionette	INFO	Stopped listening on port 57682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618947041603	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619011821280	geckodriver	INFO	Listening on 127.0.0.1:51073
+1619011826078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileJNvZBR"
+DevTools listening on ws://localhost:51093/devtools/browser/e0052d24-67d3-485c-a4bb-6fb5db00bd2f
+1619011827679	Marionette	INFO	Listening on port 51078
+1619011828128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619011961839	Marionette	INFO	Stopped listening on port 51078
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619011962086	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619012544468	geckodriver	INFO	Listening on 127.0.0.1:51352
+1619012549001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileb8zWYG"
+DevTools listening on ws://localhost:51370/devtools/browser/95604ddb-a883-45e5-af04-7ccb28064f7c
+1619012550558	Marionette	INFO	Listening on port 51357
+1619012551059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619012650945	geckodriver	INFO	Listening on 127.0.0.1:51459
+1619012655441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilewqeSXh"
+DevTools listening on ws://localhost:51479/devtools/browser/77c2c908-eb43-4314-8af9-50119603b867
+1619012657130	Marionette	INFO	Listening on port 51464
+1619012657490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 11344, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1619012724686	Marionette	INFO	Stopped listening on port 51464
+1619012724916	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619016966506	geckodriver	INFO	Listening on 127.0.0.1:57980
+1619016971326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileRnEW61"
+DevTools listening on ws://localhost:58001/devtools/browser/a80ddc09-eb47-4cb3-a376-4e8d7dc0fef0
+1619016972882	Marionette	INFO	Listening on port 57985
+1619016973376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619017107474	Marionette	INFO	Stopped listening on port 57985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619017107498	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619017113301	geckodriver	INFO	Listening on 127.0.0.1:58081
+1619017118173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile8htQ9A"
+DevTools listening on ws://localhost:58102/devtools/browser/058500d7-86db-4c03-aa70-4d24f98ee5cc
+1619017119923	Marionette	INFO	Listening on port 58086
+1619017120232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619017260743	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+!!! error running onStopped callback: TypeError: callback is not a function
+1619017483237	Marionette	INFO	Stopped listening on port 58086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619017483265	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619017491691	geckodriver	INFO	Listening on 127.0.0.1:58193
+1619017496515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilegOLRSu"
+DevTools listening on ws://localhost:58212/devtools/browser/d9a57c59-b5f0-4a93-bae3-8d167c33f5a5
+1619017498215	Marionette	INFO	Listening on port 58198
+1619017498563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619017647486	Marionette	INFO	Stopped listening on port 58198
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619017647506	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619017655341	geckodriver	INFO	Listening on 127.0.0.1:58267
+1619017660167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile99PjcZ"
+DevTools listening on ws://localhost:58287/devtools/browser/c3332c87-1fb1-4a39-8b52-3860f23140e9
+1619017661792	Marionette	INFO	Listening on port 58272
+1619017662220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619017852058	geckodriver	INFO	Listening on 127.0.0.1:58327
+1619017856843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileDKM9st"
+DevTools listening on ws://localhost:58348/devtools/browser/3df0b0e9-9012-480c-a91e-92b0950cc5bd
+1619017858344	Marionette	INFO	Listening on port 58332
+1619017858398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619017998110	Marionette	INFO	Stopped listening on port 58332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619017998129	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619018073544	geckodriver	INFO	Listening on 127.0.0.1:58423
+1619018078369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileBczEzx"
+DevTools listening on ws://localhost:58443/devtools/browser/e7368f93-462c-449f-85ed-4fd12ece5853
+1619018079899	Marionette	INFO	Listening on port 58428
+1619018080409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619018131145	Marionette	INFO	Stopped listening on port 58428
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619018131300	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619018314436	geckodriver	INFO	Listening on 127.0.0.1:58529
+1619018319453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileAbmuPP"
+DevTools listening on ws://localhost:58550/devtools/browser/9d966e55-3724-4e14-84d7-fa71292f916e
+1619018321065	Marionette	INFO	Listening on port 58535
+1619018321517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619018746635	geckodriver	INFO	Listening on 127.0.0.1:58618
+1619018751469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileiMXBjD"
+DevTools listening on ws://localhost:58638/devtools/browser/31604413-6774-4d0c-8029-be429ad152d7
+1619018752977	Marionette	INFO	Listening on port 58623
+1619018753014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619019097417	geckodriver	INFO	Listening on 127.0.0.1:58743
+1619019102282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileKhgMmq"
+DevTools listening on ws://localhost:58763/devtools/browser/852c510c-b157-403a-b56c-17b4c5db5aa7
+1619019103826	Marionette	INFO	Listening on port 58748
+1619019104339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619019266300	Marionette	INFO	Stopped listening on port 58748
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619019266323	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619019470872	geckodriver	INFO	Listening on 127.0.0.1:58824
+1619019475676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilexs5eEA"
+DevTools listening on ws://localhost:58843/devtools/browser/3fefd11e-c1b7-4185-b1a0-d6916a16568a
+1619019477227	Marionette	INFO	Listening on port 58829
+1619019477732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619019583332	Marionette	INFO	Stopped listening on port 58829
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619019583550	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619019632199	geckodriver	INFO	Listening on 127.0.0.1:58898
+1619019637014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileWtehAx"
+DevTools listening on ws://localhost:58918/devtools/browser/e6538fb2-0aab-47e5-bca0-45e33286a339
+1619019638512	Marionette	INFO	Listening on port 58903
+1619019638546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619020092098	geckodriver	INFO	Listening on 127.0.0.1:58980
+1619020096909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile8CMFwW"
+DevTools listening on ws://localhost:59001/devtools/browser/f9a63c9e-c9bd-4dff-b3d3-e55376b885f7
+1619020098413	Marionette	INFO	Listening on port 58985
+1619020098452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619020363459	Marionette	INFO	Stopped listening on port 58985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619020363490	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619020680534	geckodriver	INFO	Listening on 127.0.0.1:59234
+1619020685387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileGPumFF"
+DevTools listening on ws://localhost:59256/devtools/browser/9cdbf3b8-1cc7-49a7-8bdd-12624e72a8a1
+1619020687048	Marionette	INFO	Listening on port 59239
+1619020687438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619020757980	Marionette	INFO	Stopped listening on port 59239
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619020758178	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 61"  data: no] Stack trace: stop()@TargetObserver.jsm:61
+unwatchForTabs()@TargetList.jsm:71
+unwatchForTargets()@TargetList.jsm:38
+destructor()@TargetList.jsm:110
+close()@RemoteAgent.jsm:124
+1619034406114	geckodriver	INFO	Listening on 127.0.0.1:56068
+1619034410737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileBZ8fIL"
+1619034411552	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56091/devtools/browser/1ecb7e82-85ef-403c-86f5-f7932cf3161e
+1619034413123	Marionette	INFO	Listening on port 56074
+1619034413422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x690008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619034422418	Marionette	INFO	Stopped listening on port 56074
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619034422565	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619034473388	geckodriver	INFO	Listening on 127.0.0.1:56228
+1619034477941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilevw1aC8"
+1619034478196	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56248/devtools/browser/ab96b2cf-7eaa-4305-9b72-155d24614637
+1619034479415	Marionette	INFO	Listening on port 56233
+1619034479477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619034755360	Marionette	INFO	Stopped listening on port 56233
+1619034755382	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619034757884	geckodriver	INFO	Listening on 127.0.0.1:56318
+1619034762439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileaXNeOc"
+1619034762733	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56338/devtools/browser/64d74b1e-beb9-4659-b9ae-815f48e11971
+1619034763919	Marionette	INFO	Listening on port 56323
+1619034763981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619035469636	Marionette	INFO	Stopped listening on port 56323
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619035469672	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619035474302	geckodriver	INFO	Listening on 127.0.0.1:56452
+1619035478891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileRCuzxo"
+1619035479162	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56472/devtools/browser/c1b4794b-a7c4-40be-a3ca-074263343b47
+1619035480425	Marionette	INFO	Listening on port 56457
+1619035480942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619035742497	Marionette	INFO	Stopped listening on port 56457
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619035742529	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619090498632	geckodriver	INFO	Listening on 127.0.0.1:53540
+1619090504631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile2qTIXN"
+1619090505160	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:53561/devtools/browser/58c1fb2e-5329-42f8-ad3d-02cd34cee4c5
+1619090506996	Marionette	INFO	Listening on port 53545
+1619090507290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14100, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1619090561483	Marionette	INFO	Stopped listening on port 53545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619090561715	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619090602686	geckodriver	INFO	Listening on 127.0.0.1:53598
+1619090608545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilejlFxhP"
+1619090609030	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:53618/devtools/browser/ed13dfb6-b9d0-4bda-8cd9-ba6a08f752ad
+1619090610784	Marionette	INFO	Listening on port 53603
+1619090611265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619090815932	Marionette	INFO	Stopped listening on port 53603
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619090816257	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619092331939	geckodriver	INFO	Listening on 127.0.0.1:53788
+1619092336882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileW4x0PB"
+1619092337183	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:53809/devtools/browser/5e41f0dd-22f3-4db0-b712-40064641d30e
+1619092338595	Marionette	INFO	Listening on port 53793
+1619092338923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619092599245	Marionette	INFO	Stopped listening on port 53793
+1619092599274	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619092935883	geckodriver	INFO	Listening on 127.0.0.1:53897
+1619092940808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileI2XPKH"
+1619092941110	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:53919/devtools/browser/4ff50214-6e1f-40c8-82b9-ba55b9cf5881
+1619092942339	Marionette	INFO	Listening on port 53902
+1619092942367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619093470812	geckodriver	INFO	Listening on 127.0.0.1:54040
+1619093475767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileJEz7er"
+1619093476074	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54061/devtools/browser/b9b0c3bb-7958-4217-ada3-daf11af2ca20
+1619093477445	Marionette	INFO	Listening on port 54045
+1619093477828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x690008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 20632, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619093513955	Marionette	INFO	Stopped listening on port 54045
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619093514081	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619094211859	geckodriver	INFO	Listening on 127.0.0.1:54271
+1619094216862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileXNnlvu"
+1619094217214	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54293/devtools/browser/651ce422-d77b-4f55-85e1-bceaa8419a5a
+1619094218838	Marionette	INFO	Listening on port 54277
+1619094218902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 15048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619094276795	Marionette	INFO	Stopped listening on port 54277
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619094276930	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619095135153	geckodriver	INFO	Listening on 127.0.0.1:54571
+1619095140120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileaUMQnv"
+1619095140441	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54592/devtools/browser/1781a69f-b711-4c64-b4b4-ddaa38e9adff
+1619095142032	Marionette	INFO	Listening on port 54576
+1619095142183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+[Parent 18040, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+!!! error running onStopped callback: TypeError: callback is not a function
+1619095276771	Marionette	INFO	Stopped listening on port 54576
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619095276959	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619095416838	geckodriver	INFO	Listening on 127.0.0.1:54680
+1619095421854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilejmcFL4"
+1619095422168	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54702/devtools/browser/0e15ea85-b31d-4bcf-920d-bdfaaf646f79
+1619095423474	Marionette	INFO	Listening on port 54686
+1619095423899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15756, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1619095475057	Marionette	INFO	Stopped listening on port 54686
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619095475218	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619096065491	geckodriver	INFO	Listening on 127.0.0.1:54887
+1619096070479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileLnOIDr"
+1619096071058	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54909/devtools/browser/031deed7-98d1-47b1-84ae-9884a87579ab
+1619096072563	Marionette	INFO	Listening on port 54892
+1619096072635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 20416, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1619096114397	Marionette	INFO	Stopped listening on port 54892
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619096114541	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619098936231	geckodriver	INFO	Listening on 127.0.0.1:55563
+1619098941314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileyF7zq8"
+1619098941923	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:55584/devtools/browser/37f3deaf-695b-4510-8a89-0734c0c730f2
+1619098943348	Marionette	INFO	Listening on port 55568
+1619098943381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619099079708	geckodriver	INFO	Listening on 127.0.0.1:55863
+1619099084703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileIGcFK6"
+1619099085004	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:55883/devtools/browser/4a713509-b1cd-47e1-9919-c6a27a0a05d6
+1619099086253	Marionette	INFO	Listening on port 55868
+1619099086770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619101698614	geckodriver	INFO	Listening on 127.0.0.1:56278
+1619101703723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileHXMCih"
+1619101704045	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56298/devtools/browser/da0e66bc-0ebd-4d27-a991-3cf41c79871a
+1619101705362	Marionette	INFO	Listening on port 56283
+1619101705791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8488, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619101750743	Marionette	INFO	Stopped listening on port 56283
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619101750874	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619101753835	geckodriver	INFO	Listening on 127.0.0.1:56349
+1619101758899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileFPzwQQ"
+1619101759197	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56370/devtools/browser/8a842270-3f39-4e73-9ae6-6d69f1d3aeaa
+1619101760477	Marionette	INFO	Listening on port 56354
+1619101760956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 12008, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1619101879933	Marionette	INFO	Stopped listening on port 56354
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619101879954	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619108064959	geckodriver	INFO	Listening on 127.0.0.1:56613
+1619108070069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileH0u76G"
+1619108070618	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56633/devtools/browser/71653445-b514-4745-960a-9691bcc9dd5f
+1619108072040	Marionette	INFO	Listening on port 56618
+1619108072113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619108098376	Marionette	INFO	Stopped listening on port 56618
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619108098507	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619108115843	geckodriver	INFO	Listening on 127.0.0.1:56692
+1619108120968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile1hSDpK"
+1619108121273	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56711/devtools/browser/c98010d1-cb1a-4e44-aa6c-d4454fde0a6f
+1619108122631	Marionette	INFO	Listening on port 56697
+1619108123005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619109584853	geckodriver	INFO	Listening on 127.0.0.1:56892
+1619109589942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilewkD0Ds"
+1619109590234	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56914/devtools/browser/22362bc8-4918-42c7-a0e6-f4862029271c
+1619109591583	Marionette	INFO	Listening on port 56897
+1619109591982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619109766890	Marionette	INFO	Stopped listening on port 56897
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619109766919	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619109771164	geckodriver	INFO	Listening on 127.0.0.1:56965
+1619109776222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilecv3U89"
+1619109776535	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56987/devtools/browser/b5a8a153-4a9d-4805-9aa9-7367a1f79ed3
+1619109777722	Marionette	INFO	Listening on port 56970
+1619109777761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619110114806	Marionette	INFO	Stopped listening on port 56970
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619110114835	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619114921378	geckodriver	INFO	Listening on 127.0.0.1:61326
+1619114926494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofiletE4Ufk"
+1619114927110	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:61346/devtools/browser/5883b930-4ec4-4cb0-9766-e03ca2529384
+1619114928658	Marionette	INFO	Listening on port 61331
+1619114929168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619115057553	geckodriver	INFO	Listening on 127.0.0.1:61395
+1619115062563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilemjDBXS"
+1619115062864	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:61416/devtools/browser/8107565f-5fe6-4d1b-b36a-53b695f77c80
+1619115064109	Marionette	INFO	Listening on port 61401
+1619115064616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619115138175	Marionette	INFO	Stopped listening on port 61401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619115138363	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619115279851	geckodriver	INFO	Listening on 127.0.0.1:61465
+1619115284931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilettG2an"
+1619115285230	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:61485/devtools/browser/cb1845c4-3dee-4c2d-a609-40c9f9eaf93d
+1619115286775	Marionette	INFO	Listening on port 61470
+1619115286975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+1619115435520	geckodriver	INFO	Listening on 127.0.0.1:61576
+1619115440640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofiledEs69w"
+1619115440928	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:61596/devtools/browser/fa030f4c-e742-4160-afe3-f8fb927f9d75
+1619115442106	Marionette	INFO	Listening on port 61581
+1619115442183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619115887117	Marionette	INFO	Stopped listening on port 61581
+1619115887135	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619115899234	geckodriver	INFO	Listening on 127.0.0.1:61661
+1619115904360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileX1LQhL"
+1619115904648	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:61681/devtools/browser/d68ba7bc-6f60-456e-81fe-2a2fcc3bfb53
+1619115905858	Marionette	INFO	Listening on port 61666
+1619115905904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+[Parent 760, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+!!! error running onStopped callback: TypeError: callback is not a function
+1619116708983	Marionette	INFO	Stopped listening on port 61666
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619116709005	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1619116757283	geckodriver	INFO	Listening on 127.0.0.1:61828
+1619116762372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileiyGi1P"
+1619116762671	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:61848/devtools/browser/6f76f2e1-17eb-44f0-acd0-26769cdac18c
+1619116763832	Marionette	INFO	Listening on port 61833
+1619116763912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+[Parent 18148, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+!!! error running onStopped callback: TypeError: callback is not a function
+1619116868721	Marionette	INFO	Stopped listening on port 61833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619116868944	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619117839222	geckodriver	INFO	Listening on 127.0.0.1:61981
+1619117844459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilecdqkDA"
+1619117844754	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:62001/devtools/browser/580e93a5-655e-4315-97c7-27fc70e87ef4
+1619117845967	Marionette	INFO	Listening on port 61986
+1619117846010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x690008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619118040756	Marionette	INFO	Stopped listening on port 61986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619118040788	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619118044781	geckodriver	INFO	Listening on 127.0.0.1:62051
+1619118049954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilehVg9xD"
+1619118050238	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:62072/devtools/browser/f1313455-f213-4c0b-8707-cb9270a8327a
+1619118051491	Marionette	INFO	Listening on port 62056
+1619118052017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.b331bf4e2ea119ffdd12.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619118383860	Marionette	INFO	Stopped listening on port 62056
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619118383879	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619161114916	geckodriver	INFO	Listening on 127.0.0.1:62276
+1619161119738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilerWnjrr"
+1619161120078	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:62296/devtools/browser/ccbc3d72-a612-440e-866e-8f0485d6d5d2
+1619161121484	Marionette	INFO	Listening on port 62281
+1619161121797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619161329812	Marionette	INFO	Stopped listening on port 62281
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619161329839	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619161369786	geckodriver	INFO	Listening on 127.0.0.1:62352
+1619161374581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilexQO0nA"
+1619161374896	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:62372/devtools/browser/40766dd4-01d8-4635-9a85-483b2bdfb5e4
+1619161376130	Marionette	INFO	Listening on port 62357
+1619161376632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x690008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619162071801	geckodriver	INFO	Listening on 127.0.0.1:62458
+1619162076531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile7mm6gw"
+1619162076821	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:62476/devtools/browser/9a7380b9-782c-4e5a-bdc3-f5611c18f1d0
+1619162078015	Marionette	INFO	Listening on port 62463
+1619162078055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619162155977	Marionette	INFO	Stopped listening on port 62463
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619162156164	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619164218378	geckodriver	INFO	Listening on 127.0.0.1:63192
+1619164223277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileLxwO1p"
+1619164223635	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63213/devtools/browser/25768bf1-a29e-4954-af23-5033a9c993e7
+1619164225176	Marionette	INFO	Listening on port 63198
+1619164225352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619164435898	Marionette	INFO	Stopped listening on port 63198
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619164435948	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619164438141	geckodriver	INFO	Listening on 127.0.0.1:63279
+1619164442974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile5b1JWo"
+1619164443319	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63299/devtools/browser/483ad7e1-9a78-47cc-bddc-306658126efd
+1619164444573	Marionette	INFO	Listening on port 63285
+1619164445026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619164535134	Marionette	INFO	Stopped listening on port 63285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619164535339	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619164571330	geckodriver	INFO	Listening on 127.0.0.1:63333
+1619164576204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile31dC0O"
+1619164576534	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63353/devtools/browser/ab4bf9ce-aa79-48fa-bf8c-1fd80eba72ce
+1619164577738	Marionette	INFO	Listening on port 63338
+1619164578255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+[Parent 12024, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+!!! error running onStopped callback: TypeError: callback is not a function
+1619164627351	Marionette	INFO	Stopped listening on port 63338
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619164627494	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619164636010	geckodriver	INFO	Listening on 127.0.0.1:63401
+1619164640889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileFvXmSB"
+1619164641207	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63420/devtools/browser/a27463a9-a070-409e-ba84-bd37c4f2d322
+1619164642408	Marionette	INFO	Listening on port 63406
+1619164642448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 19640, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619164966612	geckodriver	INFO	Listening on 127.0.0.1:63475
+1619164971427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile6CvM4u"
+1619164971754	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63496/devtools/browser/a985fd5f-c022-4f0e-b6ab-1547645957a0
+1619164973139	Marionette	INFO	Listening on port 63480
+1619164973490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+[Parent 22072, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+!!! error running onStopped callback: TypeError: callback is not a function
+1619165177895	Marionette	INFO	Stopped listening on port 63480
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619165177924	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619165265248	geckodriver	INFO	Listening on 127.0.0.1:63549
+1619165270076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileUev7yP"
+1619165270387	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63571/devtools/browser/67e6f06d-0da6-4b82-8002-d53f4bfd3ffa
+1619165271698	Marionette	INFO	Listening on port 63554
+1619165272136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619165437281	Marionette	INFO	Stopped listening on port 63554
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619165437306	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619165442547	geckodriver	INFO	Listening on 127.0.0.1:63614
+1619165447388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilelbrAxx"
+1619165447733	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63636/devtools/browser/d90168a2-f4ff-45df-b1ad-890ab194b2a0
+1619165449057	Marionette	INFO	Listening on port 63619
+1619165449453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619166406188	Marionette	INFO	Stopped listening on port 63619
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619166406222	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619166407997	geckodriver	INFO	Listening on 127.0.0.1:63728
+1619166412801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileiXjXhD"
+1619166413144	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63749/devtools/browser/d403c693-93df-43b5-97fa-aa07492192d7
+1619166414627	Marionette	INFO	Listening on port 63736
+1619166414849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619166603715	Marionette	INFO	Stopped listening on port 63736
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619166603742	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619187629076	geckodriver	INFO	Listening on 127.0.0.1:56670
+1619187633885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileL30qSq"
+1619187634473	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56690/devtools/browser/34c7d4ae-6067-4cfe-9c19-e8a8503db925
+1619187635931	Marionette	INFO	Listening on port 56675
+1619187635950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+1619189893015	geckodriver	INFO	Listening on 127.0.0.1:57041
+1619189898025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileFoFtc1"
+1619189898359	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:57060/devtools/browser/7bcf6378-85f5-4a28-bb4d-04c55518527d
+1619189899574	Marionette	INFO	Listening on port 57046
+1619189900081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619189991931	Marionette	INFO	Stopped listening on port 57046
+1619189992125	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619189999869	geckodriver	INFO	Listening on 127.0.0.1:57103
+1619190005097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile474JpQ"
+1619190005419	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:57122/devtools/browser/b009c3cf-e503-4706-8956-e392b6a94fa1
+1619190006669	Marionette	INFO	Listening on port 57108
+1619190007153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+1619197796459	geckodriver	INFO	Listening on 127.0.0.1:57491
+1619197801528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile015JYR"
+1619197801871	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:57512/devtools/browser/cc259d91-f6d2-49e2-a3ef-919c60e6063d
+1619197803213	Marionette	INFO	Listening on port 57496
+1619197803570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+1619200792580	geckodriver	INFO	Listening on 127.0.0.1:49764
+1619200798075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileSuAwcR"
+1619200798484	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:49785/devtools/browser/5187f8d8-d4a2-418f-b823-3da50165e05c
+1619200800077	Marionette	INFO	Listening on port 49770
+1619200800141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24720, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+!!! error running onStopped callback: TypeError: callback is not a function
+1619200867445	Marionette	INFO	Stopped listening on port 49770
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619200867644	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619201158856	geckodriver	INFO	Listening on 127.0.0.1:50005
+1619201164396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileS81p0T"
+1619201164747	Marionette	INFO	Marionette enabled
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619201531110	geckodriver	INFO	Listening on 127.0.0.1:50058
+1619201536548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileBeaoPa"
+1619201536842	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:50078/devtools/browser/7a2188d6-d41c-4a06-ba76-76da2e8cc29e
+1619201538112	Marionette	INFO	Listening on port 50063
+1619201538596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619201686945	Marionette	INFO	Stopped listening on port 50063
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619201687130	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619201691010	geckodriver	INFO	Listening on 127.0.0.1:50115
+1619201696456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile1ZUV2J"
+1619201696769	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:50134/devtools/browser/f2513445-181f-47fb-bd57-21ca51428241
+1619201697971	Marionette	INFO	Listening on port 50120
+1619201697994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619201973511	Marionette	INFO	Stopped listening on port 50120
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619201973536	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619201976855	geckodriver	INFO	Listening on 127.0.0.1:50176
+1619201982229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileEMqvKf"
+1619201982530	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:50194/devtools/browser/01742bb5-43bf-4bc5-bd2f-8b2d33391671
+1619201983719	Marionette	INFO	Listening on port 50181
+1619201983771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619202108448	Marionette	INFO	Stopped listening on port 50181
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619202108475	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619202521680	geckodriver	INFO	Listening on 127.0.0.1:50940
+1619202526893	geckodriver	INFO	Listening on 127.0.0.1:50943
+1619202532393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilePlmobh"
+1619202532796	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:50964/devtools/browser/0f21f009-4c5c-4c7a-a7d0-2b8f72340656
+1619202534286	Marionette	INFO	Listening on port 50948
+1619202534445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619202640062	Marionette	INFO	Stopped listening on port 50948
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619202640245	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619202647161	geckodriver	INFO	Listening on 127.0.0.1:50998
+1619202652598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofilevdolLx"
+1619202652925	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51018/devtools/browser/2f482321-8adb-42d1-aa75-bc4b34143b45
+1619202654147	Marionette	INFO	Listening on port 51003
+1619202654641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5752, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x690008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619202847117	Marionette	INFO	Stopped listening on port 51003
+1619202847145	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619203020765	geckodriver	INFO	Listening on 127.0.0.1:51121
+1619203026220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileQ5LFs4"
+1619203026519	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51141/devtools/browser/dd4bd068-9367-4d1d-b229-7c5062d6c00b
+1619203027762	Marionette	INFO	Listening on port 51126
+1619203028277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1619203466886	Marionette	INFO	Stopped listening on port 51126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619203466920	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619203472013	geckodriver	INFO	Listening on 127.0.0.1:51190
+1619203477387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofiletG5sVR"
+1619203477708	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51211/devtools/browser/b3960300-0d20-4898-ad60-3029ff74b59d
+1619203478926	Marionette	INFO	Listening on port 51195
+1619203479437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+1619256417288	geckodriver	INFO	Listening on 127.0.0.1:52170
+1619256423403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileMqMbzk"
+1619256423867	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:52192/devtools/browser/b640a8fa-3b52-43f1-917e-a7c7bd3a94c1
+1619256425527	Marionette	INFO	Listening on port 52177
+1619256425581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x690008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1619257419566	Marionette	INFO	Stopped listening on port 52177
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619257419602	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619382577252	geckodriver	INFO	Listening on 127.0.0.1:58867
+1619382582050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile3NNuDI"
+1619382582381	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:58887/devtools/browser/4d0bd67e-43a5-4331-ad86-37a7aceb27da
+1619382583734	Marionette	INFO	Listening on port 58872
+1619382584121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 20384, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1619382619295	Marionette	INFO	Stopped listening on port 58872
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619382619420	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619382701796	geckodriver	INFO	Listening on 127.0.0.1:58933
+1619382766353	geckodriver	INFO	Listening on 127.0.0.1:58941
+1619382771120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile97nU9A"
+1619382771450	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:58964/devtools/browser/4e51d972-537a-44ed-ac35-30bbb3d6e9b4
+1619382772821	Marionette	INFO	Listening on port 58949
+1619382773186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 27816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619382775866	Marionette	INFO	Stopped listening on port 58949
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619382775981	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1619382782982	geckodriver	INFO	Listening on 127.0.0.1:58979
+1619382884683	geckodriver	INFO	Listening on 127.0.0.1:64118
+1619382889445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileUmKFD2"
+*** You are running in headless mode.
+1619382889651	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:64138/devtools/browser/17c5125d-d98c-4452-bc0d-6d1d8d0454db
+1619382890568	Marionette	INFO	Listening on port 64123
+1619382890979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 6225 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1619382958341	geckodriver	INFO	Listening on 127.0.0.1:64178
+1619382963099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileHPcj8u"
+*** You are running in headless mode.
+1619382963310	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:64198/devtools/browser/a87f9fea-f2e8-4f4d-ba75-5250f41987cc
+1619382964152	Marionette	INFO	Listening on port 64183
+1619382964657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1# line 1 > eval line 2045 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1620194230946	geckodriver	INFO	Listening on 127.0.0.1:51249
+1620194236246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileBwnbCR"
+*** You are running in headless mode.
+1620194236521	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51266/devtools/browser/936fc1f1-c2c9-4417-b5f8-24edbd06db7b
+1620194237583	Marionette	INFO	Listening on port 51254
+1620194237801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.f2130acc0e08627c87f4.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.f2130acc0e08627c87f4.js, line 1: unreachable code after return statement
+1620194627237	geckodriver	INFO	Listening on 127.0.0.1:51338
+1620194632347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileCrBqIC"
+1620194632733	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51360/devtools/browser/bc8755d2-f4de-42e5-8dbc-b79d3b02a475
+1620194634252	Marionette	INFO	Listening on port 51343
+1620194634401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.f2130acc0e08627c87f4.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.f2130acc0e08627c87f4.js, line 1: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1620194786521	Marionette	INFO	Stopped listening on port 51343
+1620194786551	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1633279656352	geckodriver	INFO	Listening on 127.0.0.1:51603
+1633279661620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofile682M0A"
+1633279661845	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51627/devtools/browser/42766c3e-daf2-4d28-912f-f5a17a098d47
+1633279663387	Marionette	INFO	Listening on port 51608
+1633279663686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+1633279671688	Marionette	INFO	Stopped listening on port 51608
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633279700041	geckodriver	INFO	Listening on 127.0.0.1:51659
+1633279705274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Siddhant\\AppData\\Local\\Temp\\rust_mozprofileDa90j4"
+1633279705463	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51682/devtools/browser/46f85849-833c-486c-9e0f-2af87d77942f
+1633279706763	Marionette	INFO	Listening on port 51664
+1633279706830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1633280353284	Marionette	INFO	Stopped listening on port 51664
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
