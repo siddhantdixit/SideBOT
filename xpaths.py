@@ -8,7 +8,7 @@ search_box = '//*[@id="side"]/div[1]/div/label/div/div[2]'
 
 # Chat Box Text Field
 
-chat_box_input = '//*[@id="main"]/footer/div[1]/div[2]/div/div[2]'
+chat_box_input = '//*[@id="main"]/footer/div[1]/div/div/div[2]/div[1]/div/div[2]'
 
 # Attachment Buttons
 attachment_btn = '//div[@title = "Attach"]'
